@@ -1,0 +1,14 @@
+C:\temp\speers02\Users\Users\bin\Debug\netcoreapp2.0\appsettings.json
+C:\temp\speers02\Users\Users\bin\Debug\netcoreapp2.0\bower.json
+C:\temp\speers02\Users\Users\bin\Debug\netcoreapp2.0\Users.deps.json
+C:\temp\speers02\Users\Users\bin\Debug\netcoreapp2.0\Users.runtimeconfig.json
+C:\temp\speers02\Users\Users\bin\Debug\netcoreapp2.0\Users.runtimeconfig.dev.json
+C:\temp\speers02\Users\Users\bin\Debug\netcoreapp2.0\Users.dll
+C:\temp\speers02\Users\Users\bin\Debug\netcoreapp2.0\Users.pdb
+C:\temp\speers02\Users\Users\obj\Debug\netcoreapp2.0\Users.AssemblyInfoInputs.cache
+C:\temp\speers02\Users\Users\obj\Debug\netcoreapp2.0\Users.AssemblyInfo.cs
+C:\temp\speers02\Users\Users\obj\Debug\netcoreapp2.0\Users.csproj.CoreCompileInputs.cache
+C:\temp\speers02\Users\Users\obj\Debug\netcoreapp2.0\Users.dll
+C:\temp\speers02\Users\Users\obj\Debug\netcoreapp2.0\Users.pdb
+C:\temp\speers02\Users\Users\obj\Debug\netcoreapp2.0\Users.genruntimeconfig.cache
+C:\temp\speers02\Users\Users\obj\Debug\netcoreapp2.0\Users.csprojAssemblyReference.cache
